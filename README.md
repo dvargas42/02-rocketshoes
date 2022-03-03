@@ -82,7 +82,7 @@ Technologies that I used to develop this api
 **Clone the project and access the folder**
 
 ```bash
-$ git clone https://github.com/dvargas42/rocketshoes.git
+$ git clone https://github.com/dvargas42/02-rocketshoes.git
 ```
 
 **Follow the steps below**
