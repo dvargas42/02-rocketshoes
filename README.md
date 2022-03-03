@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="Logo" src="https://res.cloudinary.com/dvargas42/image/upload/v1617609000/rockeshoes/logo_tlvzhr.svg" width="500px">
+  <img alt="Logo" src="https://res.cloudinary.com/dvargas42/image/upload/v1617609000/rockeshoes/logo_tlvzhr.svg" width="600px">
 </h1>
 
 <h3 align="center">
@@ -34,7 +34,7 @@
 
 <p align="center">
   <a href="#%EF%B8%8F-about-the-project">About the project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-screnshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-getting-started">Getting started</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-how-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -46,7 +46,7 @@
 This application was part of a challenge to test the ability to implement features
 functions and render information within a React web application.
 
-## 📸 Sreenshots
+## 📸 Screenshots
 
 Images of the application in operation.
 
